@@ -3,8 +3,7 @@
 This is a unique take on the classic *Hangman* game — instead of a stick figure, a burning bomb animation is used. If the player makes too many mistakes, the bomb explodes! The game is built using Python and the `tkinter` library.
 
 ## 📸 Screenshot (Example)
-
-_Add a screenshot here if you'd like to show how the game looks._
+<img width="239" alt="Screenshot 2025-05-05 at 16 11 09" src="https://github.com/user-attachments/assets/67719fb0-29d3-46a0-87c2-0e22568a0594" />
 
 ## 📦 Requirements
 
